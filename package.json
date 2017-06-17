@@ -1,0 +1,15 @@
+{
+  "name": "bunch-o-controllers",
+  "version": "1.0.1",
+  "description": "Collects all your controllers from the controllers directory in your project's root directory",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MVC",
+    "controllers"
+  ],
+  "author": "August Conwell",
+  "license": "ISC"
+}
