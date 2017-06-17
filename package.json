@@ -11,5 +11,13 @@
     "controllers"
   ],
   "author": "August Conwell",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asconwe/bunches.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asconwe/bunches/issues"
+  },
+  "homepage": "https://github.com/asconwe/bunches#readme"
 }
